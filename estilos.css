@@ -26,3 +26,11 @@ button {
 p{
     font-size: 18px;
 }
+button {
+    padding: 10px 18px;
+    background: #1f4e79;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
